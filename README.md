@@ -21,5 +21,29 @@ Saya Muhamad Firdaus [2101995] mengerjakan soal LP 9 dalam mata kuliah DPBO untu
 ## Dokumentasi
 
 ### MySQL Connector
+![MySQL](https://github.com/dauspairet/LP9DPBO2023C2/blob/main/Screenshot/bukti_db.jpg)
 
 ### Program
+1. Landing Page
+
+![Landing_Page](https://github.com/dauspairet/LP9DPBO2023C2/blob/main/Screenshot/welcome-page.jpg)
+
+2. Root Page
+
+![Root](https://github.com/dauspairet/LP9DPBO2023C2/blob/main/Screenshot/root-page.jpg)
+
+3. Detail Page
+
+![Detail]("https://github.com/dauspairet/LP9DPBO2023C2/blob/main/Screenshot/detail-page.jpg")
+
+4. Delete
+
+![Delete]("https://github.com/dauspairet/LP9DPBO2023C2/blob/main/Screenshot/delete.jpg")
+
+5. Video
+
+
+
+https://github.com/dauspairet/LP9DPBO2023C2/assets/100768773/35343be2-b1b2-45a7-9f50-da04727f7a37
+
+
