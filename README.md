@@ -21,24 +21,35 @@ Saya Muhamad Firdaus [2101995] mengerjakan soal LP 9 dalam mata kuliah DPBO untu
 ## Dokumentasi
 
 ### MySQL Connector
-![MySQL](https://github.com/dauspairet/LP9DPBO2023C2/blob/main/Screenshot/bukti_db.jpg)
+
+<div align="center">
+    <img src="https://github.com/dauspairet/LP9DPBO2023C2/blob/main/Screenshot/bukti_db.jpg">
+</div>
 
 ### Program
 1. Landing Page
 
-![Landing_Page](https://github.com/dauspairet/LP9DPBO2023C2/blob/main/Screenshot/welcome-page.jpg)
+<div align="center">
+    <img src="https://github.com/dauspairet/LP9DPBO2023C2/blob/main/Screenshot/welcome-page.jpg">
+</div>
 
 2. Root Page
 
-![Root](https://github.com/dauspairet/LP9DPBO2023C2/blob/main/Screenshot/root-page.jpg)
+<div align="center">
+    <img src="https://github.com/dauspairet/LP9DPBO2023C2/blob/main/Screenshot/root-page.jpg">
+</div>
 
 3. Detail Page
 
-![Detail]("https://github.com/dauspairet/LP9DPBO2023C2/blob/main/Screenshot/detail-page.jpg")
+<div align="center">
+    <img src="https://github.com/dauspairet/LP9DPBO2023C2/blob/main/Screenshot/detail-page.jpg">
+</div>
 
 4. Delete
 
-![Delete]("https://github.com/dauspairet/LP9DPBO2023C2/blob/main/Screenshot/delete.jpg")
+<div align="center">
+    <img src="https://github.com/dauspairet/LP9DPBO2023C2/blob/main/Screenshot/delete.jpg">
+</div>
 
 5. Video
 
